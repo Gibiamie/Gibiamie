@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Gibiamie
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on web3
-- 📫 How to reach me 
-
-<!---
-Gibiamie/Gibiamie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/light.svg">
+  <img alt="Mert Alkan — GitHub Profile" src="./assets/profile/dark.svg" width="100%">
+</picture>
